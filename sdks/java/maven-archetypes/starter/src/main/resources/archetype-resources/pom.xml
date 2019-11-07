@@ -29,7 +29,7 @@
 
     <maven-compiler-plugin.version>@maven-compiler-plugin.version@</maven-compiler-plugin.version>
     <maven-exec-plugin.version>@maven-exec-plugin.version@</maven-exec-plugin.version>
-    <slf4j.version>@slf4j.version@</slf4j.version>
+    <slf4j.version>1.7.28</slf4j.version>
   </properties>
 
   <repositories>
