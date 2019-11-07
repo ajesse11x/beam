@@ -30,7 +30,7 @@
     <beam.version>@project.version@</beam.version>
 
     <bigquery.version>@bigquery.version@</bigquery.version>
-    <google-clients.version>@google-clients.version@</google-clients.version>
+    <google-clients.version>1.30.3</google-clients.version>
     <hamcrest.version>@hamcrest.version@</hamcrest.version>
     <jackson.version>@jackson.version@</jackson.version>
     <joda.version>@joda.version@</joda.version>
