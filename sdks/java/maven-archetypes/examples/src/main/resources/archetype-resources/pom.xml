@@ -33,7 +33,7 @@
     <google-clients.version>@google-clients.version@</google-clients.version>
     <hamcrest.version>@hamcrest.version@</hamcrest.version>
     <jackson.version>@jackson.version@</jackson.version>
-    <joda.version>@joda.version@</joda.version>
+    <joda.version>2.10.3</joda.version>
     <junit.version>@junit.version@</junit.version>
     <maven-compiler-plugin.version>@maven-compiler-plugin.version@</maven-compiler-plugin.version>
     <maven-exec-plugin.version>@maven-exec-plugin.version@</maven-exec-plugin.version>
