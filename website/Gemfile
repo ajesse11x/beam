@@ -26,8 +26,8 @@ gem 'jekyll', '3.2'
 group :jekyll_plugins do
 	gem 'jekyll-redirect-from'
 	gem 'jekyll-sass-converter'
-	gem 'html-proofer'
-	gem 'jekyll_github_sample'
+	gem 'html-proofer', '>= 3.9.3'
+	gem 'jekyll_github_sample', '>= 0.3.2'
 end
 
 # Used by Travis tests.
@@ -35,4 +35,4 @@ gem 'rake'
 
 # Force a version lower than 5.0.0.0, which requires a newer ruby than Travis
 # supports.
-gem 'activesupport', '<5.0.0.0'
+gem 'activesupport', '~> 5.2', '>= 5.2.4.3'
