@@ -16,3 +16,5 @@
 
 apache-beam==2.13.0
 apache-beam[test]==2.13.0
+
+httplib2>=0.18.0 # not directly required, pinned by Snyk to avoid a vulnerability
