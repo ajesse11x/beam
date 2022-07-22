@@ -35,4 +35,4 @@ gem 'rake'
 
 # Force a version lower than 5.0.0.0, which requires a newer ruby than Travis
 # supports.
-gem 'activesupport', '<5.0.0.0'
+gem 'activesupport', '>= 4.2.11', '< 5.0.0.0'
